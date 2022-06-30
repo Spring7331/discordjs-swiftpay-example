@@ -20,3 +20,13 @@ If you dont know how to create a discord bot refer tho this
 https://www.youtube.com/watch?v=JMmUW4d3Noc
 
 https://swiftpay.cc/
+
+# Usage
+
+The command prefix is ```!``` 
+Commands : 
+```createinvoice PaymentMethod Amount```
+Example: ```!createinvoice BTC 0.0001```
+
+# Pictures
+https://imgur.com/a/LAkYwHr
