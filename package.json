@@ -1,0 +1,17 @@
+{
+  "name": "discordjs-example-swiftpay",
+  "version": "1.0.0",
+  "description": "Example bot for swiftpay on discord",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "devStart": "nodemon index.js"
+  },
+  "author": "Ace",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "discord.js": "^13.8.1",
+    "dotenv": "^16.0.1"
+  }
+}
