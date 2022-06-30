@@ -12,3 +12,11 @@ npm i dotenv
 npm i discord.js
 npm i axios
 ```
+
+Enter your Bot Token and Swift API key in the .env file (your environment file) after that.
+Then do npm start (or node index)
+
+If you dont know how to create a discord bot refer tho this
+https://www.youtube.com/watch?v=JMmUW4d3Noc
+
+https://swiftpay.cc/
